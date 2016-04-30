@@ -1,0 +1,7 @@
+CREATE DATABASE PeopleOfTheWorld
+
+CREATE TABLE People 
+(
+	firstname VARCHAR(30) NOT NULL,
+	lastname VARCHAR(30) NOT NULL
+)

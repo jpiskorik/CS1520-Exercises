@@ -1,0 +1,40 @@
+#startQuiz
+{
+	background-color:yellow;
+	height:100px;
+	width:200px;
+	font-size: 30px;
+	margin: 0 auto;
+    text-align: center;
+}
+
+.questions
+{
+	font-family: "Times New Roman", Times, serif;
+	color:#B80000;
+	font-style: bold;
+	font-size: 30px;
+	
+}
+
+.scoring
+{
+	font-family: "Times New Roman", Times, serif;
+	color:#0000FF;
+	font-style: bold;
+	font-size: 30px;
+	margin: 0 auto;
+    text-align: center;
+}
+
+#select0, #select1, #select2
+{
+	height:50px;
+	width:50px;
+}
+
+.quizzing
+{
+	margin: 0 auto;
+    text-align: center;
+}
